@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Akshay Karthik! 👋
 
 <!--
 **ak5012/ak5012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
