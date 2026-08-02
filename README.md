@@ -27,11 +27,7 @@ Electrical and Computer Engineering student at UT Austin (Minor in Statistics & 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ak5012&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=ak5012&theme=great-gatsby&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ak5012&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ak5012&theme=neon-dark" alt="GitHub Streak" /></a>
 </p>
 
 </div>
