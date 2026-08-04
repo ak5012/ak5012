@@ -27,7 +27,7 @@ Electrical and Computer Engineering student at UT Austin (Minor in Statistics & 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ak5012&theme=git-dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ak5012&theme=neon-dark" alt="GitHub Streak" /></a>
 </p>
 
 </div>
