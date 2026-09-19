@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Electrical and Computer Engineering student at UT Austin (Minor in Statistics & Data Science), currently working as a Software Engineering Intern 
-
+Electrical and Computer Engineering student at UT Austin (Minor in Statistics & Data Science)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshaykarthik2024@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akarthik65) 
